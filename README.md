@@ -1,1 +1,1 @@
-# wq_app
+# flask+vue
